@@ -29,11 +29,6 @@ instance/
 *.sublime-workspace
 *.sublime-project
 
-# Docker
-docker-compose.yml
-Dockerfile
-docker-compose.override.yml
-
 # MyPy
 .mypy_cache/
 .dmypy.json
